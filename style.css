@@ -1,3 +1,7 @@
-.col-lg-4 input {
+.col4input {
+    width: 100%;
+}
+
+.col-lg-1 input {
     width: 100%;
 }
