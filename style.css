@@ -1,3 +1,3 @@
-.input-large {
-    box-sizing: 200px;
+.col-lg-4 input {
+    width: 100%;
 }
